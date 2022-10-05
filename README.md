@@ -16,8 +16,8 @@ L’algorithme de la méthode:
 
 ## Résultats
 ### Résolution d'un labyrinthe
-![image](images/image3.png)
+![image](image/image3.png)
 
 ### Planificateur d'itinéraire
-![image](images/image4.png)
+![image](image/image4.png)
 
